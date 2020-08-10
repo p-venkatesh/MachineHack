@@ -44,15 +44,14 @@ The evaluation metric for this competition is max(0, (100 - mean_squared_log_err
 # Competition Result
 
 
-1. Rank: 3rd on public LB.
+1. Rank: 31rd on public LB.
 
-<img src = "Screenshot 2020-08-10 at 10.40.57 AM.png">
+<img src = "Screenshot 2020-08-10 at 11.51.52 AM.png">
 
 
-2. Rank: 3rd on private LB.
+2. Rank: 31rd on private LB.
 
-<img src = "Screenshot 2020-08-10 at 10.40.57 AM.png">
+<img src = "Screenshot 2020-08-10 at 11.51.52 AM.png">
 
-3. Top 1 percentile.
 
-4. [Link to LeaderBoard](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-the-lowest-price/leaderboard/predict-the-lowest-price-8-9ffabe00/)
+3. [Link to LeaderBoard](https://www.machinehack.com/hackathons/news_popularity_prediction_weekend_hackathon_14)
