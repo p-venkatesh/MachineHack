@@ -25,7 +25,7 @@ The provided dataset summarizes a heterogeneous set of features about articles p
 5. All the categorical features were Encoded to the numeric.
 6. Handling the outliers in the data.
 7. Created two new features.
-8. I have used XGBoost which it has gave me 99.86561, and Light GBM also given the same level of accuracy to me.
+8. I have used XGBoost which it has gave me 133.31, and Light GBM also given the same level of accuracy to me.
 
 
 ### Tools used
