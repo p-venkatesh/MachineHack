@@ -8,7 +8,7 @@ The provided dataset summarizes a heterogeneous set of features about articles p
 # Data ScreenShot
 
 <img src="Screenshot 2020-08-10 at 11.55.41 AM.png">
-<img src="Screenshot 2020-08-10 at 11.55.41 AM.png">
+<img src="Screenshot 2020-08-10 at 11.56.01 AM.png">
 <img src="Screenshot 2020-08-10 at 11.55.41 AM.png">
 
 
