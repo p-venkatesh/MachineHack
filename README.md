@@ -38,7 +38,7 @@ The provided dataset summarizes a heterogeneous set of features about articles p
 
 
 ## Evaluation Metric
-The evaluation metric for this competition is max(0, (100 - mean_squared_log_error(y_true, y_pred))).
+The evaluation metric for this competition is MAE.
 
 
 # Competition Result
